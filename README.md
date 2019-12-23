@@ -5,7 +5,7 @@
 <br> Using: Python 3, UTF-8, PEP 8
 <br> Required libraries: pandas, numpy, matplotlib, seaborn, geopandas, geopy.
 <br> Project Page: <a href="https://github.com/tamagusko/ViseuAirportStudy/">github.com/tamagusko/ViseuAirportStudy</a>
-<br> Licence: Apache-2.0, see <a href="https://github.com/tamagusko/ViseuAirportStudy/License.md">License.md</a> for more details.
+<br> Licence: Apache-2.0, see <a href="/LICENSE.md">License.md</a> for more details.
 
 
 <h2>Problem</h2>
@@ -20,14 +20,14 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 
 <h2>Input data</h2>
 
-1. Aircraft database - <a href="https://github.com/tamagusko/ViseuAirportStudy/blob/master/Data/AircraftTestData.csv">AircraftTestData.csv</a> 
+1. Aircraft database - <a href="/data/processed/AircraftTestData.csv">AircraftTestData.csv</a> 
    <br>a. **Aircraft**: Aircraft identification;
    <br>b. **ACN**²: Aircraft Classification Number;
    <br>c. **RequiredExtension**: Runway length required for landing and takeoff operations;
    <br>d. **Autonomy**: Aircraft autonomy;
    <br>e. **Passagers**³: Number of passengers carried.
 
-2. Airport database  - <a href="https://github.com/tamagusko/ViseuAirportStudy/blob/master/Data/AirportTestData.csv">AirportTestData.csv</a>  [2]
+2. Airport database  - <a href="/data/processed/AirportTestData.csv">AirportTestData.csv</a>  [2]
    <br>a. **Airport ID**: 	Unique identifier for this airport;
    <br>b. **Airport**: Name of airport;
    <br>c. **City**:  Main city served by airport;
@@ -42,7 +42,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
    <br>l. **Tz**: Timezone in "tz" (Olson) format, eg. "America/Los_Angeles" - **Unused data**;
    <br>m. **Type**: 	Type of the airport - **Unused data**;
    <br>n. **Source**: 	Source of this data - **Unused data**.
-3. Airport Database with extra data - <a href="https://github.com/tamagusko/ViseuAirportStudy/blob/master/Data/AirportTestData.csv">AirportTestExtraData.csv</a>
+3. Airport Database with extra data - <a href="/data/processed/AirportTestData.csv">AirportTestExtraData.csv</a>
    <br>a. **ICAO**:  4-letter ICAO code;
    <br>a. **RWYLenght**:  Runway length in meters;
    <br>a. **PCN**:  Runway structural strength number.
