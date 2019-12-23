@@ -77,14 +77,8 @@ Notes:
 **³** Information not required.
 
 
-# Design of the Viseu Aerodrome runway
-
-Studies for the Viseu Airport Runway Project.
-
-©Tiago Tamagusko (tamagusko@gmail.com).
-<br>Version: 0.2 (22/12/2019)
-<br>Using: Python 3, UTF-8, PEP 8
-<br>Project Page: github.com/tamagusko/LPVZstudy
-<br>Licence: Apache-2.0, see License.md for more details.
+<h1> References (Corrigir)</h1> 
+[1] Martins, J. (2018).  Reflexãoo sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal. Doi: 10.13140/RG.2.2.34944.69124.
+<br>[2] https://openflights.org/data.html. Acessed in December 20, 2019<br><br>
 
 # Project under development
