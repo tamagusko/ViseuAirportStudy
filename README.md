@@ -5,7 +5,7 @@
 <br> Using: Python 3, UTF-8, PEP 8
 <br> Required libraries: pandas, numpy, matplotlib, seaborn, geopandas, geopy.
 <br> Project Page: <a href="https://github.com/tamagusko/ViseuAirportStudy/">github.com/tamagusko/ViseuAirportStudy</a>
-<br> Licence: Apache-2.0, see <a href="/LICENSE.md">License.md</a> for more details.
+<br> Licence: Apache-2.0, see <a href="/LICENSE.md">LICENSE.md</a> for more details.
 
 
 <h2>Problem</h2>
@@ -18,6 +18,15 @@ In order to design an airport pavement, it is necessary to know two characterist
 
 Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes.
 
+<h2>Project data structure</h2>
+    
+    ├── 1-preprocessing.ipyng    # Database preprocessing 
+    ├── 2-analysis.ipynb               # Data analysis
+    ├── data                  
+    │          ├── raw                       # Raw data
+    │          ├── processed           # Data processed
+    ├── reports                              # Outputs
+    
 <h2>Input data</h2>
 
 1. Aircraft database - <a href="/data/processed/AircraftTestData.csv">AircraftTestData.csv</a> 
