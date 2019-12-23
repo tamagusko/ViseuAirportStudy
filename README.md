@@ -20,12 +20,12 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 
 <h2>Project data structure</h2>
     
-    ├── 1-preprocessing.ipyng    # Database preprocessing 
+    ├── 1-preprocessing.ipyng          # Database preprocessing 
     ├── 2-analysis.ipynb               # Data analysis
     ├── data                  
-    │          ├── raw                       # Raw data
+    │          ├── raw                 # Raw data
     │          ├── processed           # Data processed
-    ├── reports                              # Outputs
+    ├── reports                        # Outputs
     
 <h2>Input data</h2>
 
