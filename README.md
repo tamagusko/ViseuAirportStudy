@@ -13,7 +13,7 @@
 
 <h2>Problem</h2>
 
-Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer range and carry more passengers per aircraft [1]. This requires improving the structural strength of the pavement and increasing the length of its runway.
+Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer range and carry more passengers per aircraft <a href="https://github.com/tamagusko/ViseuAirportStudy/blob/master/README.md#-references">[1]</a>. This requires improving the structural strength of the pavement and increasing the length of its runway.
 
 <h2>Proposal</h2>
 
@@ -46,7 +46,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
    <br>e. **Passagers**³: Number of passengers carried.
    <br> **Updated: 25/12/2019**
 
-2. Airport database  - <a href="/data/processed/AirportData.csv">AirportData.csv</a>  [2] 
+2. Airport database  - <a href="/data/processed/AirportData.csv">AirportData.csv</a> <a href="https://github.com/tamagusko/ViseuAirportStudy/blob/master/README.md#-references">[2]</a> 
    <br>a. **Airport ID**: 	Unique identifier for this airport;
    <br>b. **Airport**: Name of airport;
    <br>c. **City**:  Main city served by airport;
@@ -62,12 +62,12 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
    <br>m. **Type**: 	Type of the airport - **Unused data**;
    <br>n. **Source**: 	Source of this data - **Unused data**.
    <br> **Updated: 23/12/2019**
-3. Airport Database⁴ with extra data - <a href="/data/processed/AirportExtraData.csv">AirportTestExtraData.csv</a> [3]
+3. Airport Database⁴ with extra data - <a href="/data/processed/AirportExtraData.csv">AirportTestExtraData.csv</a> <a href="https://github.com/tamagusko/ViseuAirportStudy/blob/master/README.md#-references">[3]</a>
    <br>a. **ICAO**:  4-letter ICAO code;
    <br>a. **RWYLenght**:  Runway length in meters;
    <br>a. **PCN**:  Runway structural strength number.
    <br> **Updated: 28/12/2019**  
-4. Basemap shapefile - <a href="/data/processed/gis/20191227_basemap.shp">20191227_basemap.shp</a>  [4]
+4. Basemap shapefile - <a href="/data/processed/gis/20191227_basemap.shp">20191227_basemap.shp</a> <a href="https://github.com/tamagusko/ViseuAirportStudy/blob/master/README.md#-references">[4]</a>
    <br>a. Layer file with boundaries of countries;
    <br> **Updated: 28/12/2019**
    
