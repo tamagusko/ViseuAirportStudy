@@ -21,7 +21,7 @@ In order to design an airport pavement, it is necessary to know two main charact
 
 Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes.
 
-<h2>Project data structure</h2>
+<h2>Project data structure:</h2>
     
     ├── 1-preprocessing.ipyng          # Database preprocessing 
     ├── 2-analysis.ipynb               # Data analysis
@@ -36,7 +36,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 
 2. Analysis  - <a href="/2-analysis.ipynb">2-analysis.ipynb</a> 
 
-<h2>Input data</h2>
+<h2>Input data:</h2>
 
 1. Aircraft database - <a href="/data/processed/AircraftData.csv">AircraftData.csv</a>
    <br>a. **Aircraft**: Aircraft identification;
@@ -89,6 +89,10 @@ Notes:
 **²** It is related to the impact of the aircraft on the pavement, and must be less than or equal to the runway PCN. <br>
 **³** Information not required. <br>
 **⁴** Shengen area airports only (lower airport security requirements).
+
+<h1>Results of Study:</h1>
+
+![Results 20191229 by Tamagusko](https://github.com/tamagusko/ViseuAirportStudy/blob/master/reports/20191229Results.png)
 
 <h1>Future developments</h1>
 
