@@ -94,6 +94,8 @@ Notes:
 
 ![Results 20191229 by Tamagusko](https://github.com/tamagusko/ViseuAirportStudy/blob/master/reports/20191229Results.png)
 
+<a href="/reports/20191229Results.pdf">Download this file in format PDF</a> 
+
 <h1>Future developments</h1>
 
 1. Improve code with L.tooltip and json for leaflet:
