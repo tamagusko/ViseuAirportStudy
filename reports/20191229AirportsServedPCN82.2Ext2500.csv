@@ -1,0 +1,118 @@
+ICAO,Airport,City,Country,Latitude,Longitude,Altitude,DistanceToRef,RWYLenght,PCN,Dornier_228,DCH-8_Q200,ATR42-600,ERJ140,ATR72-600,CRJ200,DCH-8_Q400,CRJ700,E170,E175,B737-800,B737-MAX8
+BIKF,Keflavik International Airport,Keflavik,Iceland,63.985000610352,-22.605600357055998,171.0,2759.7,3065.0,80.0,0,0,0,1,0,0,0,0,1,1,1,0
+EBBR,Brussels Airport,Brussels,Belgium,50.9014015198,4.48443984985,184.0,1480.6,3638.0,80.0,0,1,0,1,1,1,1,1,1,1,1,0
+EBCI,Brussels South Charleroi Airport,Charleroi,Belgium,50.459202000000005,4.45382,614.0,1444.6,2550.0,64.0,0,1,0,1,1,1,1,1,1,1,0,0
+EDDB,Berlin-Schönefeld Airport,Berlin,Germany,52.380001,13.5225,157.0,2077.9,3000.0,140.0,0,1,0,1,0,1,0,1,1,1,1,1
+EDDK,Cologne Bonn Airport,Cologne,Germany,50.865898132299996,7.1427397728,302.0,1617.8,3815.0,75.0,0,1,0,1,0,1,1,1,1,1,0,0
+EDDL,Düsseldorf Airport,Duesseldorf,Germany,51.289501,6.766780000000002,147.0,1627.3,3000.0,100.0,0,1,0,1,0,1,1,1,1,1,1,1
+EDDM,Munich Airport,Munich,Germany,48.353802,11.7861,1487.0,1771.4,4000.0,90.0,0,1,0,1,0,1,1,1,1,1,1,1
+EDDN,Nuremberg Airport,Nuernberg,Germany,49.498699,11.078056,1046.0,1775.0,2700.0,65.0,0,1,0,1,0,1,1,1,1,1,0,0
+EDDP,Leipzig/Halle Airport,Leipzig,Germany,51.423889,12.236389,465.0,1948.1,3600.0,80.0,0,1,0,1,0,1,1,1,1,1,1,0
+EDDS,Stuttgart Airport,Stuttgart,Germany,48.6898994446,9.22196006775,1276.0,1613.6,3345.0,80.0,0,1,0,1,0,1,1,1,1,1,1,0
+EDDT,Berlin-Tegel Airport,Berlin,Germany,52.5597,13.2877,122.0,2074.3,3023.0,120.0,0,1,0,1,0,1,0,1,1,1,1,1
+EDDV,Hannover Airport,Hannover,Germany,52.461101532,9.68507957458,183.0,1865.6,3800.0,68.0,0,1,0,1,0,1,1,1,1,1,0,0
+EDDW,Bremen Airport,Bremen,Germany,53.0475006104,8.78666973114,14.0,1859.6,2040.0,80.0,0,1,0,1,0,1,1,1,1,0,0,0
+EDFH,Frankfurt-Hahn Airport,Hahn,Germany,49.9487,7.263889999999999,1649.0,1563.6,3800.0,72.0,0,1,0,1,0,1,1,1,1,1,0,0
+EDLW,Dortmund Airport,Dortmund,Germany,51.5182991028,7.61223983765,425.0,1688.8,2000.0,49.0,0,1,0,1,0,1,1,1,1,0,0,0
+EFHK,Helsinki Vantaa Airport,Helsinki,Finland,60.317199707031,24.963300704956,179.0,3130.6,3440.0,102.0,0,0,0,0,0,0,0,0,1,1,1,1
+EHAM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,52.308601,4.76389,-11.0,1607.7,3800.0,95.0,0,1,0,1,0,1,1,1,1,1,1,1
+EHEH,Eindhoven Airport,Eindhoven,Netherlands,51.4500999451,5.374529838559999,74.0,1567.7,3000.0,60.0,0,1,0,1,0,1,1,1,1,1,0,0
+EHRD,Rotterdam The Hague Airport,Rotterdam,Netherlands,51.956902,4.43722,-15.0,1563.6,2200.0,70.0,0,1,0,1,0,1,1,1,1,0,0,0
+EKCH,Copenhagen Kastrup Airport,Copenhagen,Denmark,55.617900848389,12.656000137328999,17.0,2236.2,3600.0,80.0,0,0,0,1,0,1,0,1,1,1,1,0
+ELLX,Luxembourg-Findel International Airport,Luxemburg,Luxembourg,49.6233333,6.204444400000002,1234.0,1480.6,4000.0,65.0,0,1,0,1,1,1,1,1,1,1,0,0
+ENBR,Bergen Airport Flesland,Bergen,Norway,60.29339981,5.218140125,170.0,2356.7,2990.0,70.0,0,0,0,1,0,1,0,1,1,1,0,0
+ENGM,Oslo Lufthavn,Oslo,Norway,60.121,11.0502,681.0,2522.4,3600.0,75.0,0,0,0,1,0,0,0,1,1,1,0,0
+ENVA,Trondheim Airport Værnes,Trondheim,Norway,63.45780179999999,10.9239998,56.0,2814.2,2849.0,50.0,0,0,0,1,0,0,0,0,1,1,0,0
+EPGD,Gdańsk Lech Wałęsa Airport,Gdansk,Poland,54.377601623535206,18.466199874877894,489.0,2473.0,2800.0,50.0,0,0,0,1,0,1,0,1,1,1,0,0
+EPKK,Kraków John Paul II International Airport,Krakow,Poland,50.077702,19.7848,791.0,2384.5,2550.0,52.0,0,0,0,1,0,1,0,1,1,1,0,0
+EPKT,Katowice International Airport,Katowice,Poland,50.4743,19.08,995.0,2348.4,2799.0,50.0,0,0,0,1,0,1,0,1,1,1,0,0
+EPWA,Warsaw Chopin Airport,Warsaw,Poland,52.1656990051,20.9671001434,362.0,2531.4,3690.0,57.0,0,0,0,1,0,0,0,1,1,1,0,0
+ESGG,Gothenburg-Landvetter Airport,Gothenborg,Sweden,57.662799835205,12.279800415039,506.0,2370.0,3299.0,90.0,0,0,0,1,0,1,0,1,1,1,1,1
+ESSA,Stockholm-Arlanda Airport,Stockholm,Sweden,59.651901245116996,17.918600082397,137.0,2762.2,3301.0,97.0,0,0,0,1,0,0,0,0,1,1,1,1
+GCFV,Fuerteventura Airport,Fuerteventura,Spain,28.452699661254897,-13.863800048828098,85.0,1466.7,2400.0,67.0,0,1,0,1,1,1,1,1,1,1,0,0
+GCLP,Gran Canaria Airport,Gran Canaria,Spain,27.9319000244141,-15.386599540710401,78.0,1576.5,3100.0,65.0,0,1,0,1,0,1,1,1,1,1,0,0
+GCRR,Lanzarote Airport,Arrecife,Spain,28.945498999999998,-13.6052,46.0,1406.7,2400.0,50.0,0,1,0,1,1,1,1,1,1,1,0,0
+GCTS,Tenerife South Airport,Tenerife,Spain,28.044500351,-16.5725002289,209.0,1615.5,3200.0,79.0,0,1,0,1,0,1,1,1,1,1,0,0
+GCXO,Tenerife Norte Airport,Tenerife,Spain,28.4827003479,-16.341499328599998,2076.0,1562.0,3400.0,60.0,0,1,0,1,0,1,1,1,1,1,0,0
+GEML,Melilla Airport,Melilla,Spain,35.279800415,-2.9562599659,156.0,743.4,1428.0,25.0,1,1,1,0,1,0,0,0,0,0,0,0
+LEAL,Alicante International Airport,Alicante,Spain,38.282199859619105,-0.5581560134887701,142.0,686.1,3000.0,64.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEAM,Almería International Airport,Almeria,Spain,36.843898773193395,-2.3701000213623,70.0,644.4,3200.0,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+LEAS,Asturias Airport,Aviles,Spain,43.5635986328125,-6.034619808197019,416.0,350.5,2200.0,110.0,1,1,1,1,1,1,1,1,1,0,0,0
+LEBB,Bilbao Airport,Bilbao,Spain,43.30110168457029,-2.91060996055603,138.0,501.7,2600.0,60.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEBL,Barcelona International Airport,Barcelona,Spain,41.2971,2.07846,12.0,840.4,3552.0,86.0,1,1,1,1,1,1,1,1,1,1,1,1
+LECO,A Coruña Airport,La Coruna,Spain,43.302101,-8.37726,326.0,289.0,1940.0,45.0,1,1,1,1,1,1,1,1,1,0,0,0
+LEGE,Girona Airport,Gerona,Spain,41.901000976999995,2.7605500221,468.0,900.6,2400.0,79.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEGR,Federico Garcia Lorca Airport,Granada,Spain,37.18870162963871,-3.77735996246338,1860.0,530.1,2900.0,67.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEIB,Ibiza Airport,Ibiza,Spain,38.8728981018,1.3731199502899998,24.0,819.0,2800.0,65.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEJR,Jerez Airport,Jerez,Spain,36.744598388671896,-6.0601100921630895,93.0,469.6,2300.0,66.0,1,1,1,1,1,1,1,1,1,1,0,0
+LELC,San Javier Airport,Murcia,Spain,37.7750015258789,-0.8123890161514279,11.0,692.8,2300.0,45.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEMD,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,40.471926,-3.56264,1998.0,367.2,4100.0,91.0,1,1,1,1,1,1,1,1,1,1,1,1
+LEMG,Málaga Airport,Malaga,Spain,36.674900054931605,-4.49911022186279,53.0,537.6,3200.0,60.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEMH,Menorca Airport,Menorca,Spain,39.8625984191895,4.21864986419678,302.0,1033.1,2350.0,69.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEMO,Moron Air Base,Sevilla,Spain,37.174900054931605,-5.61594009399414,285.0,440.6,3597.0,54.0,1,1,1,1,1,1,1,1,1,1,0,0
+LERS,Reus Air Base,Reus,Spain,41.1473999023437,1.16717004776001,233.0,763.8,2455.0,39.0,1,1,1,1,1,1,1,1,1,0,0,0
+LESO,San Sebastian Airport,San Sebastian,Spain,43.3564987182617,-1.7906099557876598,16.0,583.2,1754.0,56.0,1,1,1,0,1,0,1,1,1,0,0,0
+LEST,Santiago de Compostela Airport,Santiago,Spain,42.8963012695313,-8.41514015197754,1213.0,245.0,3170.0,107.0,1,1,1,1,1,1,1,1,1,1,1,1
+LEVC,Valencia Airport,Valencia,Spain,39.4893,-0.481625,240.0,646.1,2700.0,70.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEVX,Vigo Airport,Vigo,Spain,42.2318000793457,-8.62677001953125,856.0,178.3,2400.0,74.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEXJ,Santander Airport,Santander,Spain,43.4271011352539,-3.82000994682312,16.0,450.9,2320.0,58.0,1,1,1,1,1,1,1,1,1,1,0,0
+LEZG,Zaragoza Air Base,Zaragoza,Spain,41.6661987304687,-1.04155004024506,863.0,583.7,3032.0,108.0,1,1,1,1,1,1,1,1,1,1,1,1
+LFBD,Bordeaux-Mérignac Airport,Bordeaux,France,44.8283004761,-0.7155560255050001,162.0,742.7,3100.0,70.0,1,1,1,1,1,1,1,1,1,1,0,0
+LFBO,Toulouse-Blagnac Airport,Toulouse,France,43.629101,1.36382,499.0,829.1,3500.0,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+LFLL,Lyon Saint-Exupéry Airport,Lyon,France,45.725556,5.081111,821.0,1189.2,2670.0,90.0,0,1,1,1,1,1,1,1,1,1,1,1
+LFML,Marseille Provence Airport,Marseille,France,43.439271921999996,5.22142410278,74.0,1124.5,2370.0,68.0,0,1,1,1,1,1,1,1,1,1,0,0
+LFMN,Nice-Côte d'Azur Airport,Nice,France,43.658401489300005,7.215869903560001,12.0,1287.5,2960.0,62.0,0,1,1,1,1,1,1,1,1,1,0,0
+LFOB,Paris Beauvais Tillé Airport,Beauvais,France,49.4543991088867,2.11278009414673,359.0,1247.1,2430.0,45.0,0,1,1,1,1,1,1,1,1,1,0,0
+LFPG,Charles de Gaulle International Airport,Paris,France,49.012798,2.55,392.0,1234.1,4215.0,100.0,0,1,1,1,1,1,1,1,1,1,1,1
+LFPO,Paris-Orly Airport,Paris,France,48.7233333,2.3794444,291.0,1202.7,3650.0,140.0,0,1,1,1,1,1,1,1,1,1,1,1
+LFRS,Nantes Atlantique Airport,Nantes,France,47.153198242200006,-1.61073005199,90.0,873.5,2900.0,49.0,1,1,1,1,1,1,1,1,1,1,0,0
+LFSB,EuroAirport Basel-Mulhouse-Freiburg Airport,Mulhouse,France,47.59,7.5291667,885.0,1446.2,3900.0,64.0,0,1,0,1,1,1,1,1,1,1,0,0
+LGIR,Heraklion International Nikos Kazantzakis Airport,Heraklion,Greece,35.3396987915,25.1802997589,115.0,2945.9,2682.0,36.0,0,0,0,1,0,0,0,0,0,0,0,0
+LGRP,Diagoras Airport,Rhodos,Greece,36.4053993225098,28.0862007141113,17.0,3149.4,3306.0,73.0,0,0,0,0,0,0,0,0,1,1,0,0
+LGTS,Thessaloniki Macedonia International Airport,Thessaloniki,Greece,40.5196990966797,22.970899581909197,22.0,2597.7,2440.0,40.0,0,0,0,1,0,0,0,0,1,0,0,0
+LHBP,Budapest Liszt Ferenc International Airport,Budapest,Hungary,47.429759999999995,19.261093,495.0,2284.9,3707.0,75.0,0,0,0,1,0,1,0,1,1,1,0,0
+LIBD,Bari Karol Wojtyła Airport,Bari,Italy,41.138901000000004,16.760599,177.0,2069.6,2440.0,120.0,0,1,0,1,0,1,0,1,1,1,1,0
+LICA,Lamezia Terme Airport,Lamezia,Italy,38.905398999999996,16.2423,39.0,2069.5,2414.0,58.0,0,1,0,1,0,1,0,1,1,1,0,0
+LICC,Catania-Fontanarossa Airport,Catania,Italy,37.466801000000004,15.0664,39.0,2012.5,2435.0,50.0,0,1,0,1,0,1,1,1,1,1,0,0
+LICJ,Falcone–Borsellino Airport,Palermo,Italy,38.175999,13.091,65.0,1823.4,3326.0,60.0,0,1,0,1,0,1,1,1,1,1,0,0
+LIEE,Cagliari Elmas Airport,Cagliari,Italy,39.251499,9.05428,13.0,1454.0,2803.0,50.0,0,1,0,1,1,1,1,1,1,1,0,0
+LIEO,Olbia Costa Smeralda Airport,Olbia,Italy,40.898701,9.51763,37.0,1466.4,2446.0,45.0,0,1,0,1,1,1,1,1,1,1,0,0
+LIMC,Malpensa International Airport,Milano,Italy,45.6306,8.728110000000001,768.0,1453.4,3920.0,100.0,0,1,0,1,1,1,1,1,1,1,1,1
+LIME,Il Caravaggio International Airport,Bergamo,Italy,45.673901,9.70417,782.0,1528.0,2937.0,72.0,0,1,0,1,1,1,1,1,1,1,0,0
+LIMF,Turin Airport,Torino,Italy,45.200802,7.64963,989.0,1359.0,3300.0,115.0,0,1,0,1,1,1,1,1,1,1,1,1
+LIML,Milano Linate Airport,Milan,Italy,45.445099,9.27674,353.0,1489.2,2440.0,40.0,0,1,0,1,1,1,1,1,1,0,0,0
+LIPE,Bologna Guglielmo Marconi Airport,Bologna,Italy,44.5354,11.2887,123.0,1624.8,2800.0,71.0,0,1,0,1,0,1,1,1,1,1,0,0
+LIPX,Verona Villafranca Airport,Villafranca,Italy,45.395699,10.8885,239.0,1610.7,3068.0,55.0,0,1,0,1,0,1,1,1,1,1,0,0
+LIRN,Naples International Airport,Naples,Italy,40.886002000000005,14.2908,294.0,1866.6,2628.0,90.0,0,1,0,1,0,1,1,1,1,1,1,1
+LIRP,Pisa International Airport,Pisa,Italy,43.683899,10.3927,6.0,1541.7,2993.0,85.0,0,1,0,1,0,1,1,1,1,1,1,1
+LIRQ,Peretola Airport,Florence,Italy,43.810001,11.2051,142.0,1608.3,1654.0,48.0,0,1,0,0,0,0,1,1,1,0,0,0
+LKPR,Václav Havel Airport Prague,Prague,Czech Republic,50.1008,14.26,1247.0,2011.3,3715.0,62.0,0,1,0,1,0,1,1,1,1,1,0,0
+LMML,Malta International Airport,Malta,Malta,35.857498,14.4775,300.0,2023.7,3544.0,100.0,0,1,0,1,0,1,1,1,1,1,1,1
+LOWW,Vienna International Airport,Vienna,Austria,48.110298156738004,16.569700241089002,600.0,2102.1,3600.0,70.0,0,0,0,1,0,1,0,1,1,1,0,0
+LPAZ,Santa Maria Airport,Santa Maria (island),Portugal,36.9714012145996,-25.1706008911133,308.0,1554.1,3048.0,87.0,0,1,0,1,0,1,1,1,1,1,1,1
+LPBJ,Beja Airport / Airbase,Beja (madeira),Portugal,38.078899,-7.9324,636.0,293.9,3450.0,45.0,1,1,1,1,1,1,1,1,1,1,0,0
+LPBR,Braga Municipal Aerodrome,Braga,Portugal,41.5871009827,-8.44513988495,247.0,106.5,839.0,6.4,1,0,0,0,0,0,0,0,0,0,0,0
+LPCS,Cascais Airport,Cascais,Portugal,38.724998,-9.35523,325.0,255.2,1540.0,42.0,1,1,1,0,1,0,1,0,0,0,0,0
+LPEV,Évora Airport,Evora,Portugal,38.533501,-7.889639999999999,807.0,243.4,1260.0,9.0,1,0,0,0,0,0,0,0,0,0,0,0
+LPFR,Faro Airport,Faro,Portugal,37.014400482199996,-7.965909957889999,24.0,412.0,860.0,37.0,1,0,0,0,0,0,0,0,0,0,0,0
+LPGR,Graciosa Airport,Graciosa Island,Portugal,39.092201232910206,-28.0298004150391,86.0,1727.9,1326.0,18.0,0,1,0,0,0,0,0,0,0,0,0,0
+LPHR,Horta Airport,Horta,Portugal,38.5199012756348,-28.715900421142607,118.0,1800.6,1647.0,39.0,0,1,0,0,0,0,1,1,1,0,0,0
+LPLA,Lajes Airport,Lajes (terceira Island),Portugal,38.761798999999996,-27.090799,180.0,1656.8,3310.0,92.0,0,1,0,1,0,1,1,1,1,1,1,1
+LPPD,João Paulo II Airport,Ponta Delgada,Portugal,37.7411994934,-25.6979007721,259.0,1570.0,2473.0,62.0,0,1,0,1,0,1,1,1,1,1,0,0
+LPPI,Pico Airport,Pico,Portugal,38.554297999999996,-28.441299,109.0,1776.5,1655.0,80.0,0,1,0,0,0,0,1,1,1,0,0,0
+LPPM,Portimão Airport,Portimao,Portugal,37.1493,-8.583960000000001,5.0,401.6,860.0,37.0,1,0,0,0,0,0,0,0,0,0,0,0
+LPPR,Francisco de Sá Carneiro Airport,Porto,Portugal,41.248100280799996,-8.68138980865,228.0,88.4,3480.0,80.0,1,1,1,1,1,1,1,1,1,1,1,0
+LPPS,Porto Santo Airport,Porto Santo,Portugal,33.073398590100005,-16.3500003815,341.0,1134.5,3000.0,60.0,0,1,1,1,1,1,1,1,1,1,0,0
+LPPT,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,38.7813,-9.13592,374.0,240.9,3705.0,80.0,1,1,1,1,1,1,1,1,1,1,1,0
+LPVR,Vila Real Airport,Vila Real,Portugal,41.2743,-7.72047,1805.0,62.6,946.0,26.0,1,0,0,0,0,0,0,0,0,0,0,0
+LPVZ,Aerodromo Goncalves Lobato (Viseu Airport),Viseu,Portugal,40.725497999999995,-7.88899,2060.0,0.0,2500.0,82.2,1,1,1,1,1,1,1,1,1,1,1,1
+LROP,Henri Coandă International Airport,Bucharest,Romania,44.5711111,26.085,314.0,2797.9,3500.0,88.0,0,0,0,1,0,0,0,0,1,1,1,1
+LSGG,Geneva Cointrin International Airport,Geneva,Switzerland,46.2380981445313,6.10895013809204,1411.0,1284.9,3900.0,60.0,0,1,1,1,1,1,1,1,1,1,0,0
+LSZH,Zürich Airport,Zurich,Switzerland,47.464698999999996,8.54917,1416.0,1510.0,3700.0,60.0,0,1,0,1,1,1,1,1,1,1,0,0
+LGAV,Eleftherios Venizelos International Airport,Athens,Greece,37.9364013672,23.944499969499997,308.0,2747.0,4000.0,40.0,0,0,0,1,0,0,0,0,1,0,0,0
+EVRA,Riga International Airport,Riga,Latvia,56.9235992431641,23.9710998535156,36.0,2908.2,2550.0,110.0,0,0,0,1,0,0,0,0,1,1,1,1
+EYVI,Vilnius International Airport,Vilnius,Lithuania,54.634102,25.285801,648.0,2891.3,2515.0,83.0,0,0,0,1,0,0,0,0,1,1,1,1
+LEPA,Palma De Mallorca Airport,Palma de Mallorca,Spain,39.551700591999996,2.73881006241,27.0,914.5,3000.0,96.0,1,1,1,1,1,1,1,1,1,1,1,1
+LPMA,Madeira Airport,Funchal,Portugal,32.697899,-16.7745,192.0,1191.9,2631.0,80.0,0,1,1,1,1,1,1,1,1,1,1,0
+LPCB,Aerodromo de Castelo Branco,Castelo Branco,Portugal,39.847021999999996,-7.441110000000001,1300.0,104.7,1460.0,18.4,1,1,0,0,0,0,0,0,0,0,0,0
+LPSO,Ponte de Sor Airport,Ponte de Sôr,Portugal,39.211559,-8.056542,0.0,168.7,1800.0,57.0,1,1,1,0,1,1,1,1,1,0,0,0

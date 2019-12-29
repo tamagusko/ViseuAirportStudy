@@ -1,20 +1,23 @@
 <h1>Design of the Viseu Aerodrome runway</h1>
+<br> Final project developed in the Informatics, Systems and Programming discipline of the Master in Geographic Information Technologies of the University of Coimbra, taught by Dr. Alberto Jorge Lebre Cardoso in the academic year 2018-2019.
 
-©Tiago Tamagusko (tamagusko@gmail.com). 
-<br> Version: 0.2 (22/12/2019)
-<br> Using: Python 3, UTF-8, PEP 8
-<br> Required libraries: pandas, numpy, matplotlib, seaborn, geopandas, geopy.
+<h2>Basic info</h2>
+
+© Tiago Tamagusko (tamagusko@gmail.com) - <a href="https://tamagusko.github.io">https://tamagusko.github.io</a>
+<br> Version: 0.5 (28/12/2019)
+<br> Using: Jupyter Notebook 6.0.2, Python 3.8, Linux 4.19.88-1-MANJARO x64, UTF-8.
+<br> Required libraries: pandas 0.25.3, sys 3.8.0, geopy 1.20.0.
 <br> Project Page: <a href="https://github.com/tamagusko/ViseuAirportStudy/">github.com/tamagusko/ViseuAirportStudy</a>
 <br> Licence: Apache-2.0, see <a href="/LICENSE.md">LICENSE.md</a> for more details.
 
 
 <h2>Problem</h2>
 
-The Viseu Aerodrome is interested in serving larger aircraft with longer range and number of seats [1]. This requires improving the structural strength of the pavement and increasing the length of its runway.
+Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer range and carry more passengers per aircraft [1]. This requires improving the structural strength of the pavement and increasing the length of its runway.
 
 <h2>Proposal</h2>
 
-In order to design an airport pavement, it is necessary to know two characteristics, namely the Pavement Classification Number¹ (PCN) and the extension of the runway.
+In order to design an airport pavement, it is necessary to know two main characteristics, namely the Pavement Classification Number¹ (PCN) and the extension of the runway.
 
 Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes.
 
@@ -27,16 +30,23 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
     │          ├── processed           # Data processed
     ├── reports                        # Outputs
     
+<h2>Notebooks:</h2>
+
+1. Preprocessing  - <a href="/1-preprocessing.ipyng">1-preprocessing.ipyng</a> 
+
+2. Analysis  - <a href="/2-analysis.ipynb">2-analysis.ipynb</a> 
+
 <h2>Input data</h2>
 
-1. Aircraft database - <a href="/data/processed/AircraftTestData.csv">AircraftTestData.csv</a> 
+1. Aircraft database - <a href="/data/processed/AircraftData.csv">AircraftData.csv</a>
    <br>a. **Aircraft**: Aircraft identification;
    <br>b. **ACN**²: Aircraft Classification Number;
    <br>c. **RequiredExtension**: Runway length required for landing and takeoff operations;
    <br>d. **Autonomy**: Aircraft autonomy;
    <br>e. **Passagers**³: Number of passengers carried.
+   <br> **Updated: 25/12/2019**
 
-2. Airport database  - <a href="/data/processed/AirportTestData.csv">AirportTestData.csv</a>  [2]
+2. Airport database  - <a href="/data/processed/AirportTestData.csv">AirportTestData.csv</a>  [2] 
    <br>a. **Airport ID**: 	Unique identifier for this airport;
    <br>b. **Airport**: Name of airport;
    <br>c. **City**:  Main city served by airport;
@@ -51,43 +61,51 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
    <br>l. **Tz**: Timezone in "tz" (Olson) format, eg. "America/Los_Angeles" - **Unused data**;
    <br>m. **Type**: 	Type of the airport - **Unused data**;
    <br>n. **Source**: 	Source of this data - **Unused data**.
-3. Airport Database with extra data - <a href="/data/processed/AirportTestData.csv">AirportTestExtraData.csv</a>
+   <br> **Updated: 23/12/2019**
+3. Airport Database⁴ with extra data - <a href="/data/processed/AirportExtraData.csv">AirportTestExtraData.csv</a> [3]
    <br>a. **ICAO**:  4-letter ICAO code;
    <br>a. **RWYLenght**:  Runway length in meters;
    <br>a. **PCN**:  Runway structural strength number.
+   <br> **Updated: 28/12/2019**  
+4. Basemap shapefile - <a href="/data/processed/20191227_basemap.shp">20191227_basemap.shp</a>  [4]
+   <br>a. Layer file with boundaries of countries;
+   <br> **Updated: 28/12/2019**
    
 The data is UTF-8 encoded.
 
-<h2>Results</h2>
+<h2>Use:</h2>
 
-**AnalysisByRoutes(AirportsICAOCodes)**
-> AnalysisByRoutes(ICAO1,ICAO2,ICAO3)
-<br>Required runway PCN: *Value*
-<br>Required runway lenght: *Value (m)*
-<br>Aircraft served: *Aircrafts*
-
-**AnalysisByRunway(PCN, RWYLenght)**
-> AnalysisByRunway(PCN, RWYLenght)
+**AnalysisByRWY(PCN, RWYLenght)**
+> analysisByRWY(PCN, RWYLenght)
 <br>Aircraft served: Aircrafts
 <br>Routes served: Airports
 
-**AnalysisByDistance(Distance)**
-> AnalysisByDistance(Distance)
-<br>Required runway PCN: Value
-<br>Required runway lenght: Value (m)
-<br>Aircraft served: Aircrafts
-<br>Routes served: Airports
-
+If you want to change the list of **aircraft** under study, edit the file: **Aircraft database (AircraftData.csv)**
+<br>If you would like to change the list of **airports** under study, edit the file: **Airport extra database (AirportExtraData.csv)**
 
 Notes: 
 
 **¹** Indicates, among other elements, the structural strength of the pavement. <br>
 **²** It is related to the impact of the aircraft on the pavement, and must be less than or equal to the runway PCN. <br>
-**³** Information not required.
+**³** Information not required. <br>
+**⁴** Shengen area airports only (lower airport security requirements).
 
+<h1>Future developments</h1>
 
-<h1> References (Corrigir)</h1> 
-[1] Martins, J. (2018).  Reflexãoo sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal. Doi: 10.13140/RG.2.2.34944.69124.
-<br>[2] https://openflights.org/data.html. Acessed in December 20, 2019<br><br>
+1. Improve code with L.tooltip and json for leaflet:
+<br>a. Change markers for airports;
+<br>b. Put interactive labels (ICAO codes) for airports;
+<br>c. Show legend with: Reference_Airport and Served_Airports
 
-# Project under development
+2. Rebuilding the functions for generic application, example:
+<br>a. analysisByRWY(ReferenceAirport,PCN,RWYLenght);
+<br><br>This study was not necessary as it is focused only on LPVZ (Viseu Airport).
+
+3. Build/process a database with flight routes to evaluate possible connections.
+<br><br>Interesting to see the range that the reference airport can have with a simple connection.
+
+<h1> References</h1> 
+<br>[1] Martins, J. P. F. (2018). Reflexão sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal (Universidade do Porto). https://doi.org/10.13140/RG.2.2.34944.69124
+<br>[2] OpenFlights (2019). Airport, airline and route data. Retrieved December 23, 2019, from https://openflights.org/data.html
+<br>[3] World Aero Data (2019). World Aeronautical Database. Retrieved December 28, 2019, from https://worldaerodata.com
+<br>[4] Natural Earth (2019). Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales. Retrieved December 25, 2019, from http://www.naturalearthdata.com<br><br>
