@@ -32,7 +32,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
     
 <h2>Notebooks:</h2>
 
-1. Preprocessing  - <a href="/1-preprocessing.ipyng">1-preprocessing.ipyng</a> 
+1. Preprocessing  - <a href="/1-preprocessing.ipynb">1-preprocessing.ipyng</a> 
 
 2. Analysis  - <a href="/2-analysis.ipynb">2-analysis.ipynb</a> 
 
@@ -46,7 +46,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
    <br>e. **Passagers**³: Number of passengers carried.
    <br> **Updated: 25/12/2019**
 
-2. Airport database  - <a href="/data/processed/AirportTestData.csv">AirportTestData.csv</a>  [2] 
+2. Airport database  - <a href="/data/processed/AirportData.csv">AirportData.csv</a>  [2] 
    <br>a. **Airport ID**: 	Unique identifier for this airport;
    <br>b. **Airport**: Name of airport;
    <br>c. **City**:  Main city served by airport;
@@ -67,7 +67,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
    <br>a. **RWYLenght**:  Runway length in meters;
    <br>a. **PCN**:  Runway structural strength number.
    <br> **Updated: 28/12/2019**  
-4. Basemap shapefile - <a href="/data/processed/20191227_basemap.shp">20191227_basemap.shp</a>  [4]
+4. Basemap shapefile - <a href="/data/processed/gis/20191227_basemap.shp">20191227_basemap.shp</a>  [4]
    <br>a. Layer file with boundaries of countries;
    <br> **Updated: 28/12/2019**
    
