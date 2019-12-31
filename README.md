@@ -1,4 +1,4 @@
-<h1>Design of the Viseu Aerodrome runway</h1>
+<h1>Design of the Viseu Aerodrome Runway</h1>
 <br> Final project developed in the Informatics, Systems and Programming discipline of the Master in Geographic Information Technologies of the University of Coimbra, taught by Dr. Alberto Jorge Lebre Cardoso in the academic year 2018-2019.
 
 <h2>Basic info</h2>
