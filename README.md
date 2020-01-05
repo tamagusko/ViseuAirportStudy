@@ -111,11 +111,11 @@ Notes:
 <br><br>Interesting to see the range that the reference airport can have with a simple connection.
 
 <h1> Citation</h1>
-<br>If you used this code or part of it in your work, you can use the following reference: 
+If you used this code or part of it in your work, you can use the following reference: 
 <br>Tamagusko, T. (2019). Studies for the Viseu Airport Runway Project. Retrieved from https://github.com/tamagusko/ViseuAirportStudy
 
 <h1> References</h1> 
-<br>[1] Martins, J. P. F. (2018). Reflexão sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal (Universidade do Porto). https://doi.org/10.13140/RG.2.2.34944.69124
+[1] Martins, J. P. F. (2018). Reflexão sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal (Universidade do Porto). https://doi.org/10.13140/RG.2.2.34944.69124
 <br>[2] OpenFlights (2019). Airport, airline and route data. Retrieved December 23, 2019, from https://openflights.org/data.html
 <br>[3] World Aero Data (2019). World Aeronautical Database. Retrieved December 28, 2019, from https://worldaerodata.com
 <br>[4] Natural Earth (2019). Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales. Retrieved December 25, 2019, from http://www.naturalearthdata.com<br><br>
