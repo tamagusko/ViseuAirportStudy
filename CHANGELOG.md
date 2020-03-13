@@ -1,5 +1,5 @@
 # Changelog
-The notable changes in the project ** Study of the Airport of Viseu ** are documented in this file.
+The notable changes in the project **Study of the Airport of Viseu** are documented in this file.
 
 ## [0.6.0] - 2020-03-13
 ### Fixed
