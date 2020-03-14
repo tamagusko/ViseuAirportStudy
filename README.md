@@ -64,8 +64,8 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
    <br> **Updated: 23/12/2019**
 3. Airport Database⁴ with extra data - <a href="/data/processed/AirportExtraData.csv">AirportTestExtraData.csv</a> <a href="https://github.com/tamagusko/ViseuAirportStudy/blob/master/README.md#-references">[3]</a>
    <br>a. **ICAO**:  4-letter ICAO code;
-   <br>a. **RWYLenght**:  Runway length in meters;
-   <br>a. **PCN**:  Runway structural strength number.
+   <br>b. **RWYLenght**:  Runway length in meters;
+   <br>c. **PCN**:  Runway structural strength number.
    <br> **Updated: 28/12/2019**  
 4. Basemap shapefile - <a href="/data/processed/gis/20191227_basemap.shp">20191227_basemap.shp</a> <a href="https://github.com/tamagusko/ViseuAirportStudy/blob/master/README.md#-references">[4]</a>
    <br>a. Layer file with boundaries of countries;
