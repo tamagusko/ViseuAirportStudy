@@ -112,7 +112,7 @@ Notes:
 
 <h1> Citation</h1>
 <br>Tamagusko, T. (2019). Studies for the Viseu Airport Runway Project. Retrieved from https://github.com/tamagusko/ViseuAirportStudy
-
+<br>Tamagusko, Tiago. (2020). Airport Pavement Design. 10.13140/RG.2.2.19628.00640. 
 <h1> References</h1> 
 [1] Martins, J. P. F. (2018). Reflexão sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal (Universidade do Porto). https://doi.org/10.13140/RG.2.2.34944.69124
 <br>[2] OpenFlights (2019). Airport, airline and route data. Retrieved December 23, 2019, from https://openflights.org/data.html
