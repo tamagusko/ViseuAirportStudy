@@ -8,4 +8,8 @@ The notable changes in the project **Viseu Airport Study** are documented in thi
 - Fixing broken links in 1-preprocessing.ipynb. [@tamagusko](https://github.com/tamagusko).
 - Fixing broken links in 2-analysis.ipynb. [@tamagusko](https://github.com/tamagusko).
 
+## [0.6.0] - 2020-05-10
+### Added
+- Added information for cite this study. 
+
 Sorry, we started CHANGELOG.md in version 0.6.0.
