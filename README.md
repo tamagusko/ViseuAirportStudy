@@ -111,7 +111,6 @@ Notes:
 <br><br>Interesting to see the range that the reference airport can have with a simple connection.
 
 <h1> Citation</h1>
-If you used this code or part of it in your work, you can use the following reference: 
 <br>Tamagusko, T. (2019). Studies for the Viseu Airport Runway Project. Retrieved from https://github.com/tamagusko/ViseuAirportStudy
 
 <h1> References</h1> 
