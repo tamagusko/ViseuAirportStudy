@@ -6,9 +6,9 @@ Final project developed in the Informatics, Systems and Programming discipline o
 © Tiago Tamagusko (tamagusko@gmail.com) - <a href="https://tamagusko.github.io">https://tamagusko.github.io</a>
 <br> Version: 0.6 (2020/03/13)
 <br> Using: Jupyter Notebook 6.0.2, Python 3.8, Linux 4.19.88-1-MANJARO x64, UTF-8.
-<br> Required libraries: pandas 0.25.3, sys 3.8.0, geopy 1.20.0, geopandas 0.6.2, descartes 1.1.0, mplleaflet 0.0.5, and shapely 1.6.4.post2.
+<br> Required libraries: <a href="/requeriments.txt">requeriments</a>
 <br> Project Page: <a href="https://github.com/tamagusko/ViseuAirportStudy/">github.com/tamagusko/ViseuAirportStudy</a>
-<br> Licence: Apache-2.0, see <a href="/LICENSE.md">LICENSE.md</a> for more details.
+<br> Licence: <a href="/LICENSE.md">Apache-2.0</a>
 
 
 <h2>Problem</h2>
