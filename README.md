@@ -6,7 +6,7 @@ Final project developed in the Informatics, Systems and Programming discipline o
 © Tiago Tamagusko (tamagusko@gmail.com) - <a href="https://tamagusko.github.io">https://tamagusko.github.io</a>
 <br> Version: 0.6 (2020/03/13)
 <br> Using: Jupyter Notebook 6.0.2, Python 3.8, Linux 4.19.88-1-MANJARO x64, UTF-8.
-<br> Required libraries: <a href="/requiriments.txt">requiriments</a>
+<br> Required libraries: <a href="/requeriments.txt">requeriments</a>
 <br> Project Page: <a href="https://github.com/tamagusko/ViseuAirportStudy/">github.com/tamagusko/ViseuAirportStudy</a>
 <br> License: <a href="/LICENSE.md">Apache-2.0</a>
 
