@@ -116,13 +116,13 @@ Notes:
 
 ```bibtex
 @misc{Tamagusko2019,
-  author = {Tamagusko, T.},
+  author = {Tamagusko, Tiago},
   title = {Studies for the Viseu Airport Runway Project},
   year = {2019},
   url = {https://github.com/tamagusko/ViseuAirportStudy}
 }
 @misc{Tamagusko2020,
-  author = {Tamagusko, T.},
+  author = {Tamagusko, Tiago},
   title = {Airport Pavement Design},
   year = {2020},
   doi = {10.13140/RG.2.2.19628.00640},
