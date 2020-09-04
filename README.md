@@ -111,7 +111,7 @@ Notes:
 <br><br>Interesting to see the range that the reference airport can have with a simple connection.
 
 <h1> Citation</h1>
-<br>Tamagusko, T. (2019). Studies for the Viseu Airport Runway Project. Retrieved from https://github.com/tamagusko/ViseuAirportStudy
+<br>Tamagusko, T. and Ferreira, A. (2020). Data Analysis applied to Airport Pavement Design, Submitted to Proceedings of the 6th International Conference on Road and Rail Infrastructure, Pula, Croatia.
 <br>Tamagusko, Tiago. (2020). Airport Pavement Design. https://doi.org/10.13140/RG.2.2.19628.00640
 
 ```bibtex
