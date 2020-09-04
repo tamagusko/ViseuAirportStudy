@@ -115,18 +115,23 @@ Notes:
 <br>Tamagusko, Tiago. (2020). Airport Pavement Design. https://doi.org/10.13140/RG.2.2.19628.00640
 
 ```bibtex
-@misc{Tamagusko2019,
-  author = {Tamagusko, Tiago},
-  title = {Studies for the Viseu Airport Runway Project},
-  year = {2019},
+@article{Tamagusko-Ferreira2020,
+  author = {Tiago Tamagusko and Adelino Ferreira},
+  title = {Data Analysis applied to Airport Pavement Design},
+  journal = {Submitted to Proceedings of the 6th International Conference on Road and Rail Infrastructure},
+  year = {2020},
   url = {https://github.com/tamagusko/ViseuAirportStudy}
 }
-@misc{Tamagusko2020,
-  author = {Tamagusko, Tiago},
-  title = {Airport Pavement Design},
-  year = {2020},
-  doi = {10.13140/RG.2.2.19628.00640},
-  url = {https://doi.org/10.13140/RG.2.2.19628.00640}
+@thesis{Tamagusko2020,
+author = {Tamagusko, Tiago},
+doi = {10.13140/RG.2.2.19628.00640},
+number = {February},
+pages = {82},
+school = {University of Coimbra},
+title = {{Airport Pavement Design}},
+type = {Master Dissertation in Urban Mobility Management},
+year = {2020}
+url = {https://doi.org/10.13140/RG.2.2.19628.00640}
 }
 ```
 
