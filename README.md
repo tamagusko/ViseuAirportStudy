@@ -112,7 +112,7 @@ Notes:
 
 <h1> Citation</h1>
 <br>Tamagusko, T. and Ferreira, A. (2020). Data Analysis applied to Airport Pavement Design, Submitted to Proceedings of the 6th International Conference on Road and Rail Infrastructure, Pula, Croatia.
-<br>Tamagusko, Tiago. (2020). Airport Pavement Design. https://doi.org/10.13140/RG.2.2.19628.00640
+<br>Tamagusko, T. (2020). Airport Pavement Design. https://doi.org/10.13140/RG.2.2.19628.00640
 
 ```bibtex
 @article{Tamagusko-Ferreira2020,
