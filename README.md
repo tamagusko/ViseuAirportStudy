@@ -36,7 +36,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 
 ## Input data:
 
-1. Aircraft database - [AircraftData.csv](/data/processed/AircraftData.csv) [[1]](#1)  
+1. Aircraft database - [AircraftData.csv](/data/processed/AircraftData.csv) [[3]](#3)  
    a. **Aircraft**: Aircraft identification;  
    b. **ACN**²: Aircraft Classification Number;  
    c. **RequiredExtension**: Runway length required for landing and takeoff operations;  
@@ -60,7 +60,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
    m. **Type**: 	Type of the airport - **Unused data**;  
    n. **Source**: 	Source of this data - **Unused data**.  
    **Updated: 23/12/2019**  
-3. Airport Database⁴ with extra data - [AirportExtraData.csv](/data/processed/AirportExtraData.csv) [[3]](#3)  
+3. Airport Database⁴ with extra data - [AirportExtraData.csv](/data/processed/AirportExtraData.csv) [[2]](#2)  
    a. **ICAO**:  4-letter ICAO code;  
    b. **RWYLenght**:  Runway length in meters;  
    c. **PCN**:  Runway structural strength number.  
