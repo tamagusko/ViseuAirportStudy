@@ -36,7 +36,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 
 ## Input data:
 
-1. Aircraft database - [AircraftData.csv](/data/processed/AircraftData.csv)  
+1. Aircraft database - [AircraftData.csv](/data/processed/AircraftData.csv) [[1]](#1)  
    a. **Aircraft**: Aircraft identification;  
    b. **ACN**²: Aircraft Classification Number;  
    c. **RequiredExtension**: Runway length required for landing and takeoff operations;  
@@ -44,7 +44,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
    e. **Passagers**³: Number of passengers carried.  
    **Updated: 25/12/2019**  
 
-2. Airport database - [AirportData.csv](/data/processed/AirportData.csv)[2](#2)  
+2. Airport database - [AirportData.csv](/data/processed/AirportData.csv) [[2]](#2)  
    a. **Airport ID**: 	Unique identifier for this airport;  
    b. **Airport**: Name of airport;  
    c. **City**:  Main city served by airport;  
@@ -60,12 +60,12 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
    m. **Type**: 	Type of the airport - **Unused data**;  
    n. **Source**: 	Source of this data - **Unused data**.  
    **Updated: 23/12/2019**  
-3. Airport Database⁴ with extra data - [AirportExtraData.csv](/data/processed/AirportExtraData.csv)[3](#3)  
+3. Airport Database⁴ with extra data - [AirportExtraData.csv](/data/processed/AirportExtraData.csv) [[3]](#3)  
    a. **ICAO**:  4-letter ICAO code;  
    b. **RWYLenght**:  Runway length in meters;  
    c. **PCN**:  Runway structural strength number.  
    **Updated: 28/12/2019**  
-4. Basemap shapefile - [20191227_basemap.shp](/data/processed/gis/20191227_basemap.shp)[4](#4)  
+4. Basemap shapefile - [20191227_basemap.shp](/data/processed/gis/20191227_basemap.shp) [[4]](#4)  
    a. Layer file with boundaries of countries;  
    **Updated: 28/12/2019**  
    
