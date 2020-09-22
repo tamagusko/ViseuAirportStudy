@@ -12,7 +12,7 @@ Final project developed in the Informatics, Systems and Programming discipline o
 
 ## Problem
 
-Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer range and carry more passengers per aircraft [1](#1)</a>. This requires improving the structural strength of the pavement and increasing the length of its runway.
+Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer range and carry more passengers per aircraft [[1]](#1). This requires improving the structural strength of the pavement and increasing the length of its runway.
 
 ## Proposal
 
