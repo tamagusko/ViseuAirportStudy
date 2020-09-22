@@ -4,12 +4,11 @@ Final project developed in the Informatics, Systems and Programming discipline o
 ## Basic info
 
 © Tiago Tamagusko (tamagusko@gmail.com) - [tamagusko.github.io](https://tamagusko.github.io)
-<br> Version: 0.6 (2020/03/13)
-<br> Using: Jupyter Notebook 6.0.2, Python 3.8, Linux 4.19.88-1-MANJARO x64, UTF-8.
-<br> Required libraries: [requirements](/requirements.txt)
-<br> Project Page: [github.com/tamagusko/ViseuAirportStudy](https://github.com/tamagusko/ViseuAirportStudy/)
-<br> License: </a> 
-
+ Version: 0.6 (2020/03/13)  
+ Using: Jupyter Notebook 6.0.2, Python 3.8, Linux 4.19.88-1-MANJARO x64, UTF-8.  
+ Required libraries: [requirements](/requirements.txt)  
+ Project Page: [github.com/tamagusko/ViseuAirportStudy](https://github.com/tamagusko/ViseuAirportStudy/)  
+ License: [Apache 2.0](/LICENSE.md)
 
 ## Problem
 
