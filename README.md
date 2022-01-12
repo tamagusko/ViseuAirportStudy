@@ -4,12 +4,9 @@ Final project developed in the Informatics, Systems and Programming discipline o
 
 ## Basic info
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/tamagusko) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.md) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
-
 © Tiago Tamagusko (tamagusko@gmail.com) - [tamagusko.github.io](https://tamagusko.github.io)  
- Version: 0.6.1 (2022/01/12)  
- Required libraries: [requirements](/requirements.txt)  
- Project Page: [github.com/tamagusko/ViseuAirportStudy](https://github.com/tamagusko/ViseuAirportStudy/)  
+Version: 0.6.1 (2022/01/12)  
+Required libraries: [requirements](/requirements.txt)  
 
 ## Problem
 
@@ -17,9 +14,12 @@ Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer 
 
 ## Proposal
 
-In order to design an airport pavement, it is necessary to know two main characteristics, namely the Pavement Classification Number¹ (PCN) and the extension of the runway.
+In order to design an airport pavement, it is necessary to know two main characteristics, namely the Pavement Classification Number[^1] (PCN) and the extension of the runway.
 
-Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes.
+Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes[^2].
+
+[^1]: Indicates, among other elements, the structural strength of the pavement.
+[^2]: Shengen only
 
 ## Project data structure:
 
@@ -46,24 +46,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 > Aircraft served: Aircrafts  
 > Routes served: Airports
 
-```
-Changes:
-
-To change the aircrafts, edit the file: 
-AircraftData.csv
-
-To change the airports, edit the file: 
-AirportExtraData.csv
-
-Notes:
-
-1. Indicates, among other elements, the structural strength of the pavement.  
-2. It is related to the impact of the aircraft on the pavement, and must be less than or equal to the runway PCN.  
-3. Information not required.  
-4. Shengen area airports only (lower airport security requirements).
-```
-
-# Results of Study:
+# Results:
 
 [Download this file in format PDF](/reports/20191229Results.pdf)
 
