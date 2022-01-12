@@ -9,7 +9,7 @@ Required libraries: [requirements](/requirements.txt)
 
 ## Problem
 
-Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer range and carry more passengers per aircraft [[1]](#references). This requires improving the structural strength of the pavement and increasing the length of its runway.
+Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer range and carry more passengers per aircraft [(Martins, 2018)](#references). This requires improving the structural strength of the pavement and increasing the length of its runway.
 
 ## Proposal
 
@@ -70,5 +70,5 @@ url = {https://doi.org/10.13140/RG.2.2.19628.00640}
 
 # References
 
-1. Martins, J. P. F. (2018). 
+1. **Martins**, J. P. F. (2018). 
 Reflexão sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal (Universidade do Porto). https://doi.org/10.13140/RG.2.2.34944.69124
