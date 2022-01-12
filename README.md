@@ -2,11 +2,6 @@
 
 Project[^1] that calculates served airports and accepted aircraft based on runway characteristics.
 
-## Basic info
-
-© Tiago Tamagusko (tamagusko@gmail.com) - [tamagusko.github.io](https://tamagusko.github.io)   
-Required libraries: [requirements](/requirements.txt)  
-
 ## Problem
 
 Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer range and carry more passengers per aircraft [(Martins, 2018)](#references). This requires improving the structural strength of the pavement and increasing the length of its runway.
@@ -76,3 +71,11 @@ url = {https://doi.org/10.13140/RG.2.2.19628.00640}
 
 Martins, J. P. F. (2018). 
 **Reflexão sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal** (Universidade do Porto). https://doi.org/10.13140/RG.2.2.34944.69124
+
+---
+
+Please direct bug reports and pull requests to the GitHub page. To contact me directly, send email to [tamagusko@gmail.com](mailto:tamagusko@gmail.com).
+
+-- Tiago
+
+[Copyright](LICENSE) (c) 2019, [Tiago Tamagusko](https://github.com/tamagusko).
