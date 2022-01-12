@@ -21,24 +21,25 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 [^2]: Aircraft need a minimum runway length to land.
 [^3]: Schengen only, to ease security issues.
 
-## Project data structure:
+## Project data structure
 
     ├── preprocessing.ipynb            # Preprocessing 
     ├── analysis.ipynb                 # Data analysis
-    ├── TODO.md                        # Future developments
     ├── data                  
     │          ├── raw                 # Raw data
     │          ├── processed           # Data processed
     ├── reports                        # Outputs
 
-## Shortcuts:
+## Shortcuts
 
 1. [Preprocessing](preprocessing.ipynb)  
 2. [Data analysis](analysis.ipynb)
 3. [Data information](/data)
 4. [Future developments](TODO.md)
 
-## Use:
+## Use
+
+In the analysis.ipynb notebook, run:
 
 **AnalysisByRWY(PCN, RWYLenght)**
 
@@ -46,7 +47,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 > Aircraft served: Aircrafts  
 > Routes served: Airports
 
-# Results:
+# Results
 
 ![](/reports/20191229Results.png)
 [Download this file in format PDF](/reports/20191229Results.pdf)
