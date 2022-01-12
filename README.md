@@ -1,25 +1,25 @@
-# Design of the Viseu Aerodrome Runway
+# Viseu Aerodrome Runway Study
 
 Final project developed in the Informatics, Systems and Programming discipline of the Master in Geographic Information Technologies of the University of Coimbra, taught by Dr. Alberto Jorge Lebre Cardoso in the academic year 2018-2019.
 
 ## Basic info
 
-© Tiago Tamagusko (tamagusko@gmail.com) - [tamagusko.github.io](https://tamagusko.github.io)  
-Version: 0.6.1 (2022/01/12)  
+© Tiago Tamagusko (tamagusko@gmail.com) - [tamagusko.github.io](https://tamagusko.github.io)   
 Required libraries: [requirements](/requirements.txt)  
 
 ## Problem
 
-Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer range and carry more passengers per aircraft [[1]](#1). This requires improving the structural strength of the pavement and increasing the length of its runway.
+Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer range and carry more passengers per aircraft [[1]](#references). This requires improving the structural strength of the pavement and increasing the length of its runway.
 
 ## Proposal
 
-In order to design an airport pavement, it is necessary to know two main characteristics, namely the Pavement Classification Number[^1] (PCN) and the extension of the runway.
+In order to design an airport pavement, it is necessary to know two main characteristics, namely the Pavement Classification Number[^1] (PCN) and the extension[^2] of the runway.
 
-Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes[^2].
+Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes[^3].
 
 [^1]: Indicates, among other elements, the structural strength of the pavement.
-[^2]: Schengen only, to ease security issues.
+[^2]: Aircraft need a minimum runway length to land.
+[^3]: Schengen only, to ease security issues.
 
 ## Project data structure:
 
@@ -35,8 +35,8 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 
 1. [Preprocessing](preprocessing.ipynb)  
 2. [Data analysis](analysis.ipynb)
-3. [Future developments](TODO.md)
-4. [Data information](/data)
+3. [Data information](/data)
+4. [Future developments](TODO.md)
 
 ## Use:
 
@@ -70,6 +70,6 @@ url = {https://doi.org/10.13140/RG.2.2.19628.00640}
 
 # References
 
-[1] 
+[1]. 
 Martins, J. P. F. (2018). 
 Reflexão sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal (Universidade do Porto). https://doi.org/10.13140/RG.2.2.34944.69124
