@@ -19,7 +19,7 @@ In order to design an airport pavement, it is necessary to know two main charact
 Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes[^2].
 
 [^1]: Indicates, among other elements, the structural strength of the pavement.
-[^2]: Shengen only
+[^2]: Schengen only, to ease security issues.
 
 ## Project data structure:
 
@@ -47,7 +47,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 > Routes served: Airports
 
 # Results:
-
+![](/reports/20191229Results.png)
 [Download this file in format PDF](/reports/20191229Results.pdf)
 
 # Citation
