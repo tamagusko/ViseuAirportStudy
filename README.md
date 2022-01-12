@@ -1,6 +1,6 @@
 # Viseu Aerodrome Runway Study
 
-Final project developed in the Informatics, Systems and Programming discipline of the Master in Geographic Information Technologies of the University of Coimbra, taught by Dr. Alberto Jorge Lebre Cardoso in the academic year 2018-2019.
+Project[^1] that calculates served airports and accepted aircraft based on runway characteristics.
 
 ## Basic info
 
@@ -13,13 +13,14 @@ Viseu Aerodrome is interested in servicing bigger aircraft, which enable longer 
 
 ## Proposal
 
-In order to design an airport pavement, it is necessary to know two main characteristics, namely the Pavement Classification Number[^1] (PCN) and the extension[^2] of the runway.
+In order to design an airport pavement, it is necessary to know two main characteristics, namely the Pavement Classification Number[^2] (PCN) and the extension[^3] of the runway.
 
-Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes[^3].
+Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes[^4].
 
-[^1]: Indicates, among other elements, the structural strength of the pavement.
-[^2]: Aircraft need a minimum runway length to land.
-[^3]: Schengen only, to ease security issues.
+[^1]: Developed for the discipline of Informatics, Systems and Programming (Prof. Alberto Cardoso) at the University of Coimbra, academic year 2018-2019.
+[^2]: Indicates, among other elements, the structural strength of the pavement.
+[^3]: Aircraft need a minimum runway length to land.
+[^4]: Schengen area only, to ease security issues.
 
 ## Project data structure
 
@@ -43,7 +44,8 @@ In the analysis.ipynb notebook, run:
 
 **AnalysisByRWY(PCN, RWYLenght)**
 
-> analysisByRWY(PCN, RWYLenght)  
+Output:
+
 > Aircraft served: Aircrafts  
 > Routes served: Airports
 
