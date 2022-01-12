@@ -1,12 +1,13 @@
-# Design of the Viseu Aerodrome Runway  
+# Design of the Viseu Aerodrome Runway
+
 Final project developed in the Informatics, Systems and Programming discipline of the Master in Geographic Information Technologies of the University of Coimbra, taught by Dr. Alberto Jorge Lebre Cardoso in the academic year 2018-2019.
 
 ## Basic info
+
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/tamagusko) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.md) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
 
-© Tiago Tamagusko (tamagusko@gmail.com) - [tamagusko.github.io](https://tamagusko.github.io)
- Version: 0.6 (2020/03/13)  
- Using: Jupyter Notebook 6.0.2, Python 3.8, Linux 4.19.88-1-MANJARO x64, UTF-8.  
+© Tiago Tamagusko (tamagusko@gmail.com) - [tamagusko.github.io](https://tamagusko.github.io)  
+ Version: 0.6.1 (2022/01/12)  
  Required libraries: [requirements](/requirements.txt)  
  Project Page: [github.com/tamagusko/ViseuAirportStudy](https://github.com/tamagusko/ViseuAirportStudy/)  
 
@@ -21,14 +22,14 @@ In order to design an airport pavement, it is necessary to know two main charact
 Thus, the proposed challenge is to design a pavement with capacity (PCN) and extension to meet a desired group of routes.
 
 ## Project data structure:
-    
-    ├── 1-preprocessing.ipyng          # Database preprocessing 
+
+    ├── [1-preprocessing.ipyng](/1-preprocessing.ipynb)          # Preprocessing 
     ├── 2-analysis.ipynb               # Data analysis
     ├── data                  
     │          ├── raw                 # Raw data
     │          ├── processed           # Data processed
     ├── reports                        # Outputs
-    
+
 ## Notebooks:
 
 1. Preprocessing - [1-preprocessing.ipyng](/1-preprocessing.ipynb)  
@@ -39,44 +40,47 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 1. Aircraft database - [AircraftData.csv](/data/processed/AircraftData.csv) [[3]](#3)  
    a. **Aircraft**: Aircraft identification;  
    b. **ACN**²: Aircraft Classification Number;  
-   c. **RequiredExtension**: Runway length required for landing and takeoff operations;  
-   d. **Autonomy**: Aircraft autonomy;  
-   e. **Passagers**³: Number of passengers carried.  
+      c. **RequiredExtension**: Runway length required for landing and takeoff operations;  
+      d. **Autonomy**: Aircraft autonomy;  
+      e. **Passagers**³: Number of passengers carried.  
    **Updated: 25/12/2019**  
 
 2. Airport database - [AirportData.csv](/data/processed/AirportData.csv) [[2]](#2)  
-   a. **Airport ID**: 	Unique identifier for this airport;  
+   a. **Airport ID**:     Unique identifier for this airport;  
    b. **Airport**: Name of airport;  
    c. **City**:  Main city served by airport;  
-   d. **Country**: 	Country or territory where airport is located;  
+   d. **Country**:     Country or territory where airport is located;  
    e. **IATA**:  3-letter IATA code - **Unused data**;  
    f. **ICAO**:  4-letter ICAO code;  
-   g. **Latitude**: 	Latitutide in decimal degrees. Negative is South, positive is North;  
-   h. **Longitude** :	Longitude in decimal degrees. Negative is West, positive is East;  
-   i. **Altitude**: 	Altitude in feet - **Unused data**;  
-   j. **Timezone**: 	Hours offset from UTC  - **Unused data**;  
-   k. **DST**: 	Daylight savings time. One of E (Europe), A (US/Canada), S (South America), O (Australia), Z (New Zealand), N (None) or U (Unknown)  - **Unused data**;  
+   g. **Latitude**:     Latitutide in decimal degrees. Negative is South, positive is North;  
+   h. **Longitude** :    Longitude in decimal degrees. Negative is West, positive is East;  
+   i. **Altitude**:     Altitude in feet - **Unused data**;  
+   j. **Timezone**:     Hours offset from UTC  - **Unused data**;  
+   k. **DST**:     Daylight savings time. One of E (Europe), A (US/Canada), S (South America), O (Australia), Z (New Zealand), N (None) or U (Unknown)  - **Unused data**;  
    l. **Tz**: Timezone in "tz" (Olson) format, eg. "America/Los_Angeles" - **Unused data**;  
-   m. **Type**: 	Type of the airport - **Unused data**;  
-   n. **Source**: 	Source of this data - **Unused data**.  
+   m. **Type**:     Type of the airport - **Unused data**;  
+   n. **Source**:     Source of this data - **Unused data**.  
    **Updated: 23/12/2019**  
+
 3. Airport Database⁴ with extra data - [AirportExtraData.csv](/data/processed/AirportExtraData.csv) [[2]](#2)  
    a. **ICAO**:  4-letter ICAO code;  
    b. **RWYLenght**:  Runway length in meters;  
    c. **PCN**:  Runway structural strength number.  
    **Updated: 28/12/2019**  
+
 4. Basemap shapefile - [20191227_basemap.shp](/data/processed/gis/20191227_basemap.shp) [[4]](#4)  
    a. Layer file with boundaries of countries;  
    **Updated: 28/12/2019**  
-   
+
 The data is UTF-8 encoded.
 
 ## Use:
 
 **AnalysisByRWY(PCN, RWYLenght)**
+
 > analysisByRWY(PCN, RWYLenght)  
-Aircraft served: Aircrafts  
-Routes served: Airports  
+> Aircraft served: Aircrafts  
+> Routes served: Airports  
 
 If you want to change the list of **aircraft** under study, edit the file: **Aircraft database (AircraftData.csv)**  
 If you would like to change the list of **airports** under study, edit the file: **Airport extra database (AirportExtraData.csv)**
@@ -97,17 +101,17 @@ Notes:
 # Future developments
 
 1. Improve code with L.tooltip and json for leaflet:  
-a. Change markers for airports;  
-b. Put interactive labels (ICAO codes) for airports;  
-c. Show legend with: Reference_Airport and Served_Airports
+   a. Change markers for airports;  
+   b. Put interactive labels (ICAO codes) for airports;  
+   c. Show legend with: Reference_Airport and Served_Airports
 
 2. Rebuilding the functions for generic application, example:  
-a. analysisByRWY(ReferenceAirport,PCN,RWYLenght);  
+   a. analysisByRWY(ReferenceAirport,PCN,RWYLenght);  
 
 This study was not necessary as it is focused only on LPVZ (Viseu Airport).
 
 3. Build/process a database with flight routes to evaluate possible connections.  
-Interesting to see the range that the reference airport can have with a simple connection.
+   Interesting to see the range that the reference airport can have with a simple connection.
 
 # Citation
 
