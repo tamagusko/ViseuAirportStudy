@@ -70,6 +70,5 @@ url = {https://doi.org/10.13140/RG.2.2.19628.00640}
 
 # References
 
-[1]. 
-Martins, J. P. F. (2018). 
+1. Martins, J. P. F. (2018). 
 Reflexão sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal (Universidade do Porto). https://doi.org/10.13140/RG.2.2.34944.69124
