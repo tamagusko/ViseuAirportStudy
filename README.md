@@ -47,6 +47,7 @@ Thus, the proposed challenge is to design a pavement with capacity (PCN) and ext
 > Routes served: Airports
 
 # Results:
+
 ![](/reports/20191229Results.png)
 [Download this file in format PDF](/reports/20191229Results.pdf)
 
@@ -70,5 +71,5 @@ url = {https://doi.org/10.13140/RG.2.2.19628.00640}
 
 # References
 
-1. **Martins**, J. P. F. (2018). 
-Reflexão sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal (Universidade do Porto). https://doi.org/10.13140/RG.2.2.34944.69124
+Martins, J. P. F. (2018). 
+**Reflexão sobre a viabilidade e localização de uma infraestrutura aeroportuária na região Centro de Portugal** (Universidade do Porto). https://doi.org/10.13140/RG.2.2.34944.69124
