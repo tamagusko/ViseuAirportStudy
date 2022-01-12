@@ -9,6 +9,10 @@ The notable changes in the project **Viseu Airport Study** are documented in thi
 - Formatting and simplifying the text in README.md. [@tamagusko](https://github.com/tamagusko).
 - Formatting of data information and future developments in individual files. [@tamagusko](https://github.com/tamagusko).
 
+### Fixed
+
+* Change master branch to main.
+
 ## [0.6.0] - 2020-03-20
 
 ### Fixed
